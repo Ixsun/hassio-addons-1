@@ -1,6 +1,6 @@
 {
-  "build_from": {
-    "armhf": "multiarch/debian-debootstrap:armhf-stretch",
-    "amd64": "multiarch/debian-debootstrap:amd64-stretch"  
-  }
+"build_from": {
+"armhf": "ha-bridge/ha-bridge-docker:rpi",
+"amd64": "ha-bridge/ha-bridge-docker:latest"
+}
 }
