@@ -1,6 +1,6 @@
 {
 "build_from": {
-"armhf": "ha-bridge/ha-bridge-docker:rpi",
-"amd64": "ha-bridge/ha-bridge-docker:latest"
+"armhf": "resin/rpi-raspbian:jessie",
+"amd64": "debian:jessie"
 }
 }
